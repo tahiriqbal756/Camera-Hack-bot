@@ -3,7 +3,7 @@
 <p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
 
 
-<h2 align='center'>Camera & location Tracker using a link.</h2>
+<h2 align='center'>Camera Hack bot.</h2>
 
 <div align="center">
 
@@ -14,7 +14,7 @@ This tool is based upon [click](https://t.me/+KeBQRQL417BhYmRl) .This is a teleg
 
 [![Run on Repl.it](https://repl.it/badge/github/@vk0549433/Camera-phishing)](https://replit.com/@vk0549433/Camera-phishing?v=1)
  
-  ### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
+   ### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
 
 ### [![Video Tutorial](https://github.com/Vishal0Hacker/Camera-Hack-bot/blob/main/vid.png)
 
@@ -28,4 +28,4 @@ This tool is based upon [click](https://t.me/+KeBQRQL417BhYmRl) .This is a teleg
 1. `cd camera Hack`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
 1. Replace your website URL at
-2. ### [How to build](https://t.me/addlist/lH_Kn0h0bI01YTA1)
+2. ### [Telegram premium](https://t.me/addlist/lH_Kn0h0bI01YTA1)
