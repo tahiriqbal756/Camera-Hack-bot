@@ -12,7 +12,7 @@
 This tool is based upon [click]((https://t.me/+KeBQRQL417BhYmRl)) .This is a telegram implementation with extra features than.
 
 
-[![Run on Repl.it](https://repl.it/badge/Vishal0Hacker/Camera-Hack-bot)](https://replit.com/Vishal0Hacker/Camera-Hack-bot?v=1)
+[![Run on Repl.it](https://repl.it/badge/Vishal0Hacker/Camera-Hack-bot)](https://replit.com/Vishal0Hacker/Camera-Hack-bot)
  
 #### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
 
