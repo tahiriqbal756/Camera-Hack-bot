@@ -16,7 +16,7 @@ This tool is based upon [click]((https://t.me/+KeBQRQL417BhYmRl)) .This is a tel
  
 #### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
 
-[![Video Tutorial](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/vid.png)](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/vid.png?raw=true)
+[![Video Tutorial](https://github.com/Vishal0Hacker/Camera-Hack-bot/blob/main/vid.png)]([https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/](https://github.com/Vishal0Hacker/Camera-Hack-bot/blob/main/vid.png?raw=true)
 
 **Make sure you put `bot` as the secret's key , it's case sensitive.**
 
