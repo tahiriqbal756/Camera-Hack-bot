@@ -14,9 +14,9 @@ This tool is based upon [click](https://t.me/+KeBQRQL417BhYmRl) .This is a teleg
 
 [![Run on Repl.it](https://repl.it/badge/github/@vk0549433/Camera-phishing)](https://replit.com/@vk0549433/Camera-phishing?v=1)
  
-  #### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
+  ### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
 
-#### [![Video Tutorial](https://github.com/Vishal0Hacker/Camera-Hack-bot/blob/main/vid.png)
+### [![Video Tutorial](https://github.com/Vishal0Hacker/Camera-Hack-bot/blob/main/vid.png)
 
 **Make sure you put `bot` as the secret's key , it's case sensitive.**
 
