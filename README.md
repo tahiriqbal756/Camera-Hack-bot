@@ -27,4 +27,4 @@ This tool is based upon [click]((https://t.me/+KeBQRQL417BhYmRl)) .This is a tel
 1. Clone the repo using `https://github.com/Vishal0Hacker/Camera-Hack-bot`
 1. `cd camera Hack`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
-1. Replace your website URL at [@Vishalzxx](https://t.me/@Vishalzxx)
+1. Replace your website URL at ###[Telegram Premium](https://t.me/addlist/lH_Kn0h0bI01YTA1)
