@@ -1,9 +1,9 @@
 
 
-<p align='center'><img style="height:100px;width:100px" src="vishal.jpg" ></p>
+<p align='center'><img style="height:100px;width:100px" src="icon.png" ></p>
 
 
-<h2 align='center'>camera Hack bot .</h2>
+<h2 align='center'>Camera & location Tracker using a link.</h2>
 
 <div align="center">
 
@@ -16,7 +16,7 @@ This tool is based upon [click]((https://t.me/+KeBQRQL417BhYmRl)) .This is a tel
  
 #### [Video Tutorial](https://youtu.be/xmhr-MBTccs?si=c0urOE8UK4MYMlmP)
 
-[![Video Tutorial](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/Hackbot.png)](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/Hackbot.png?raw=true)
+[![Video Tutorial](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/vid.png)](https://github.com/Vishal0Hacker/Camera-location-Tracker/blob/main/vid.png?raw=true)
 
 **Make sure you put `bot` as the secret's key , it's case sensitive.**
 
