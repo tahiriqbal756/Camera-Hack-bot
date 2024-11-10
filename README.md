@@ -28,4 +28,4 @@ This tool is based upon [click]((https://t.me/+KeBQRQL417BhYmRl)) .This is a tel
 1. `cd camera Hack`
 1. Create a environment variable in `.env` file named `bot` and put your telegram bot token as it's value.
 1. Replace your website URL at
-2. [![Telegram Premium l](https://t.me/addlist/lH_Kn0h0bI01YTA1)
+2.#### [![Telegram Premium l]([https://t.me/addlist/lH_Kn0h0bI01YTA1](https://t.me/addlist/lH_Kn0h0bI01YTA1))
