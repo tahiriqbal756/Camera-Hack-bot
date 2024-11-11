@@ -17,7 +17,7 @@ This tool is based upon [click](https://t.me/+KeBQRQL417BhYmRl) .This is a teleg
 ### Tutorial Video
 Part 1 | Part 2
 -------|------
- [![Part1](./images/thumbnail1.png)](https://th30neand0nly.github.io/Ohm/images/part1.mp4) | [![Part2](./images/thumbnail2.png)](https://th30neand0nly.github.io/Ohm/images/part2.mp4)
+ [![Part1](./images/thumbnail1.png)](https://github.com/Vishal0Hacker/Camera-Hack-bot/images/part_1.mp4) | [![Part2](./images/thumbnail2.png)](https://th30neand0nly.github.io/Ohm/images/part2.mp4)
 
 ### [![Video Tutorial](https://github.com/Vishal0Hacker/Camera-Hack-bot/blob/main/vid.png)
 
