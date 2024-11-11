@@ -14,7 +14,7 @@ This tool is based upon [click](https://t.me/+KeBQRQL417BhYmRl) .This is a teleg
 
 [![Run on Repl.it](https://repl.it/badge/github/@vk0549433/Camera-Hack-bot)](https://replit.com/@vk0549433/Camera-Hack-bot?v=1)
 
-### Tutorial Video
+### [Tutorial Video](https://www.mediafire.com/file/ia6ayt7jwv3vb0q/VN20241110_211909.mp4/file)
 Part 1 
 -------
  [![Part1](thumbnail.jpg)](https://www.mediafire.com/file/ia6ayt7jwv3vb0q/VN20241110_211909.mp4/file)
