@@ -1,5 +1,5 @@
 <?php
-define('API_KEY', '7292028285:AAHS3tj1-Wz3m3G3W9dmb6A_6Pp50YUJkbQ');
+define('API_KEY', '7184974136:AAFkcNjXwOKVJmSgqPnXvd4Fo9DwC4UPFWs');
 
 function sendPhoto($file, $chatId){
     $userAgent = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : 'Unknown User-Agent';
